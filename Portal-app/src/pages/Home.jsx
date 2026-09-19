@@ -13,13 +13,13 @@ function Home() {
           </span>
 
           <h1>
-            Manage your students
+            Manage your student
             <br />
             <span>smarter and faster.</span>
           </h1>
 
           <p>
-            A modern student management portal built with React.
+            A modern student management portal built with React..
             Browse students, search records, and view detailed
             student information from one dashboard.
           </p>
